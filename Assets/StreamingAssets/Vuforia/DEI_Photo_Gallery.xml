@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Technical_College" size="0.150000 0.084253" />
+    <ImageTarget name="REI" size="0.150000 0.084000" />
+    <ImageTarget name="Engg_College" size="0.150000 0.112500" />
+    <ImageTarget name="DES_Block" size="0.150000 0.049235" />
+    <ImageTarget name="DEI" size="0.150000 0.093750" />
+    <ImageTarget name="Commerce_Faculty" size="0.150000 0.045918" />
+    <ImageTarget name="PV" size="0.150000 0.048980" />
+  </Tracking>
+</QCARConfig>
